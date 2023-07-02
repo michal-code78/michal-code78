@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there I am Michal 👋
 
-I’m currently learnig
-<br>
-<b>aaa</b>
+I’m currently learnig Data since at HyperionDEV 
+
 <!--
 **michal-code78/michal-code78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
